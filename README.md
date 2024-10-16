@@ -1,8 +1,8 @@
-<a href="https://douglasrangel.com/"><img style="margin-top: 20px" align="right" width="300" height="300" alt="douglas-rangel" src="./image.png"></a>
-
 <h1>
     <span>Douglas Rangel</span>
 </h1>
+
+<a href="https://douglasrangel.com/"><img align="right" width="300" height="300" alt="douglas-rangel" src="./image.png"></a>
 
 <p align="justify">Software Engineer | Frontend | React | Next | Vue | Typescript 
 <br>
@@ -48,7 +48,7 @@
   <img height="262em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=douglasrangel-stack&theme=discord_old_blurple"/>
 </div>
 <div style="text-align: center; display: flex">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=douglasrangel-stack&theme=discord_old_blurple"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=douglasrangel-stack&theme=discord_old_blurple"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=douglasrangel-stack&theme=discord_old_blurple"/>
+  <img height="164em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=douglasrangel-stack&theme=discord_old_blurple"/>
+  <img height="164em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=douglasrangel-stack&theme=discord_old_blurple"/>
+  <img height="164em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=douglasrangel-stack&theme=discord_old_blurple"/>
 </div>
