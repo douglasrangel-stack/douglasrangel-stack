@@ -4,7 +4,7 @@
 
 <a href="https://douglasrangel.com/"><img align="right" width="300" height="300" alt="douglas-rangel" src="./image.png"></a>
 
-<p align="justify">Software Engineer | Frontend | React | Next | Vue | Typescript 
+<p align="justify">Software Engineer | Frontend | Angular | React | Next | Vue | Typescript 
 <br>
   
 - 🔭 Atualmente estou trabalhando em projetos frontend utilizando Next.js, React e TypeScript.
